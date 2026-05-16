@@ -1,0 +1,14 @@
+/Users/abinassahoo/Desktop/2301020217/toDoListApp/bin/Debug/net10.0/toDoListApp
+/Users/abinassahoo/Desktop/2301020217/toDoListApp/bin/Debug/net10.0/toDoListApp.deps.json
+/Users/abinassahoo/Desktop/2301020217/toDoListApp/bin/Debug/net10.0/toDoListApp.runtimeconfig.json
+/Users/abinassahoo/Desktop/2301020217/toDoListApp/bin/Debug/net10.0/toDoListApp.dll
+/Users/abinassahoo/Desktop/2301020217/toDoListApp/bin/Debug/net10.0/toDoListApp.pdb
+/Users/abinassahoo/Desktop/2301020217/toDoListApp/obj/Debug/net10.0/toDoListApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abinassahoo/Desktop/2301020217/toDoListApp/obj/Debug/net10.0/toDoListApp.AssemblyInfoInputs.cache
+/Users/abinassahoo/Desktop/2301020217/toDoListApp/obj/Debug/net10.0/toDoListApp.AssemblyInfo.cs
+/Users/abinassahoo/Desktop/2301020217/toDoListApp/obj/Debug/net10.0/toDoListApp.csproj.CoreCompileInputs.cache
+/Users/abinassahoo/Desktop/2301020217/toDoListApp/obj/Debug/net10.0/toDoListApp.dll
+/Users/abinassahoo/Desktop/2301020217/toDoListApp/obj/Debug/net10.0/refint/toDoListApp.dll
+/Users/abinassahoo/Desktop/2301020217/toDoListApp/obj/Debug/net10.0/toDoListApp.pdb
+/Users/abinassahoo/Desktop/2301020217/toDoListApp/obj/Debug/net10.0/toDoListApp.genruntimeconfig.cache
+/Users/abinassahoo/Desktop/2301020217/toDoListApp/obj/Debug/net10.0/ref/toDoListApp.dll
